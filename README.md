@@ -1,8 +1,5 @@
 # House-Price-Prediction-Using-Linear-Regression
 
-
-# House Price Prediction using Linear Regression
-
 This is a beginner-friendly machine learning project that uses **Linear Regression** to predict house prices based on selected features from the Kaggle dataset: *House Prices - Advanced Regression Techniques*.
 
 ## Features Used
